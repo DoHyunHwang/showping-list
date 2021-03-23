@@ -2,6 +2,7 @@
 
 - 쇼핑목록 리스트 <br>
 - 텍스트 입력후 엔터 또는 + 버튼 클릭시 리스트 저장
+- https://dohyunhwang.github.io/showping-list/
   <br>
   <br>
 
