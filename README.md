@@ -1,7 +1,7 @@
 # showping-list
 
 - 쇼핑목록 리스트 <br>
-- 텍스트 입력후 엔터 또는 + 버튼 클릭시 리스트 저장
+- input의 데이터가 submit 이벤트 발생시 List에 data 추가 및 삭제 기능
 - https://dohyunhwang.github.io/showping-list/
   <br>
   <br>
